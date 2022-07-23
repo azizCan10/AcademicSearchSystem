@@ -1,4 +1,4 @@
-## Academic Search Systemm
+## Academic Search System
 
 Written with Python-Flask
 
